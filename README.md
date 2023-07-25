@@ -1,2 +1,1 @@
- my first readme 
-A task for only thsis 
+my first readme edite permsision for only thsis 
